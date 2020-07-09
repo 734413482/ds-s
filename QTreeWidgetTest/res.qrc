@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/1.png</file>
+        <file>images/add.png</file>
+        <file>images/del.png</file>
+        <file>images/cadmodels.png</file>
+        <file>images/focusplane.png</file>
+        <file>images/formerrorreports.png</file>
+        <file>images/mcs.png</file>
+        <file>images/pointclouds.png</file>
+        <file>images/reposition.png</file>
+        <file>images/sensor.png</file>
+    </qresource>
+</RCC>
